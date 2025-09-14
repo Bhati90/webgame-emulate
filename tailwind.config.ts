@@ -19,6 +19,10 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        "game-card": "hsl(var(--game-card))",
+        "game-card-hover": "hsl(var(--game-card-hover))",
+        "game-featured": "hsl(var(--game-featured))",
+        "game-featured-hover": "hsl(var(--game-featured-hover))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
